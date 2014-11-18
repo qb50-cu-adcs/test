@@ -1,0 +1,10 @@
+*
+!.gitignore
+!.gitattributes
+!.gitkeep
+!makefile
+!MAACS_makedefs
+!*.c
+!*.h
+!*/
+
